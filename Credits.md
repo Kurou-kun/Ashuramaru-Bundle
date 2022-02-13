@@ -30,12 +30,6 @@
 - Hardware Info
 	by Kurou
 	
-- Dock
-	by Kurou
-	
-- CyberSearch
-	by CyberOfficial
-	
 - Design idea was taken from Illustro Gadets
 	by Iamanai
 	
