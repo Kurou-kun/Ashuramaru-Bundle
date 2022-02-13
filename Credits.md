@@ -1,6 +1,8 @@
-###################[ Authors ]###################
+# Ashuramaru-Bundle
 
-#################################################
+--------------------------------------------------------------------
+	Authors
+--------------------------------------------------------------------
 - Panel
 	by Kurou
 	
@@ -40,22 +42,23 @@
 - All skins were modified
 	by Kurou
 	
-#################################################
- - Wallpapers
-	- Lost in Woods.jpg
-		from https://wall.alphacoders.com/big.php?i=998708
+--------------------------------------------------------------------
+	Wallpapers
+--------------------------------------------------------------------
+- Lost in Woods.jpg
+	from https://wall.alphacoders.com/big.php?i=998708
 
-	- Lone Ronin.jpg
-		from https://wall.alphacoders.com/big.php?i=842656
+- Lone Ronin.jpg
+	from https://wall.alphacoders.com/big.php?i=842656
 		
-	- Old Ronin.jpg
-		from https://wall.alphacoders.com/big.php?i=1143850
+- Old Ronin.jpg
+	from https://wall.alphacoders.com/big.php?i=1143850
 		
-	- Red Shrine.jpg
-		from https://wall.alphacoders.com/big.php?i=987362
+- Red Shrine.jpg
+	from https://wall.alphacoders.com/big.php?i=987362
 		
-	- Ronin in Woods.jpg
-		from https://wall.alphacoders.com/big.php?i=1027580
+- Ronin in Woods.jpg
+	from https://wall.alphacoders.com/big.php?i=1027580
 	
-	- Ronin on Shrine.jpg
-		from https://wall.alphacoders.com/big.php?i=992385
+- Ronin on Shrine.jpg
+	from https://wall.alphacoders.com/big.php?i=992385
