@@ -3,7 +3,19 @@
 --------------------------------------------------------------------
 	Version: 1.0.6
 --------------------------------------------------------------------
+ - Features
+	- Added new Dock skin to the bundle.
+	- Added new CyberSearch skin to the bundle.
 
+ - Changes
+	- In clock.ini seperated Day/Week/Quarter with their values to give ability to change value color.
+	- 
+
+ - Known issues
+	- Back buttons from skins settings drawing > before wrong page names after being cliked.
+
+ - Bugfixes
+	- Fixed MeterToggle name in hardware info.
 	
 --------------------------------------------------------------------
 	Version: 1.0.5
