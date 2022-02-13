@@ -62,3 +62,8 @@
 	
 - Ronin on Shrine.jpg
 	from https://wall.alphacoders.com/big.php?i=992385
+	
+-----------------------------------------------------------------
+	License
+-----------------------------------------------------------------
+- Creative Commons BY-NC-SA 3.0
