@@ -30,8 +30,17 @@
 - Hardware Info
 	by Kurou
 	
+- Dock
+	by Kurou
+	
+- CyberSearch
+	by CyberOfficial
+	
 - Design idea was taken from Illustro Gadets
 	by Iamanai
+	
+- New Detailed Statistics skin idea taken from SystemInformation
+	by Ahmed90
 	
 - All skins were modified
 	by Kurou

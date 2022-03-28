@@ -3,7 +3,75 @@
 --------------------------------------------------------------------
 	Version: 1.0.6
 --------------------------------------------------------------------
+ - Features
+	- Added new Dock skin to the bundle.
+	- Added new CyberSearch skin to the bundle.
+	- Added new Recycle Bin via Dock skin style.
+	- Added new TaskbarX skin to the bundle.
+	- Added new option to show graph on Processes skin in Panel.
+	- Added METADATA to all main skin files for more information.
+	- Added more customization options to the Clock skin.
+	- Added new Setup skin.
+	- Added new Event system to the panel.
+	- Added new Game Mode system to the panel.
+	- Added New Performance System to optimize the suite.
+	- Added new Acrylic background option on Appearance page.
+	- Replaced old Graphs with new seperate detailed skins about your hardware.
 
+ - Changes
+	- In clock.ini seperated Day/Week/Quarter with their values to give ability to change value color.
+	- Moved update-log.txt to github repository as ChangeLog.md.
+	- Moved author.txt to github repository as Credits.md.
+	- Removed manual.txt nad folder DOCUMENTS.
+	- Removed !Execute bang from Appearance page.
+	- Removed !Execute bang from Settings page.
+	- Removed !Execute bang from Welcome page.
+	- Removed !Execute bang from Update page.
+	- Removed !Execute bang from Skins page.
+	- Removed !Execute bang from all skins.
+	- Integrated ColorPicker with panel.
+	- Due to bad response with Uninstall feature, its being removed and replaced by guide how to delete all files of this skin.
+	- Changed 4th link on Welcome page from Survey to Forum.
+	- Added space between VALUE % in Statistics skin for better visuals.
+	- Removed shortcut to Ashuramaru-Tray-Icon.exe and replaced it with skin Tray.ini.
+	- Changed Ashuramaru-Tray-Icon.exe to Ashuramaru-Tray.exe.
+	- Updated English language with new lines of text.
+	- Changed variables in Statistics.ini to implement more complex customization.
+	- Changed 2nd page of Statistics settings for more complex customization.
+	- Changed Skins page buttons to look like any other buttons in panel.
+	- Deleted Uninstaller icon from Github.
+	- Commented out entire code of Single Dock "Recycle Bin" to informat what to change.
+	- Swapped variables which are used in buttons for Statistics Variation and changed how these button worked and added ability to activate all Statistics Variations at the same time.
+	- Swapped position of Panel Settings in Settings page.
+	- Updated Ashuramaru-Tray.exe for newer groups.
+	- Remaked enitre language file EN.inc.
+	- Optimized Statistics skin to gather measures from 1 file on all versions.
+	- Remaked Translucent Taskbar .ini file to reduce amount of files.
+	- Fixed Performance Monitor and Game Mode variables.
+	- Added Color Gradient opacity settings in TaskbarX page.
+	- Added new option regarding Detailed variation of the statistics.
+	- Added information if you turn on disk you doesnt have to Statistics Combined.
+
+ - Known issues
+	- When switching Preset 1 to Preset 2 or otherwise in Appearance page previouse colors which will be saved will be those from Preset 1.
+	- You can drag any skin around while holding LMB on buttons.
+	- Too many usless variables in variables.inc file.
+	- CPU usage too high when doing certain actions.
+
+ - Bugfixes
+	- Fixed MeterToggle name in hardware info.
+	- Fixed Appearance back button showing tooltiptext.
+	- Fixed path to sound when clicking any button in skin.
+	- Fixed language variables to back and pages system.
+	- Fixed Notes skin width to match others.
+	- Fixed activate buttons which deactivates certain variation of skin.
+	- Fixed Panel page system when prefix > was drawed in wrong places.
+	- Fixed Hardware-Info skin resizing to users hardware info.
+	- Fixed CPU Clock to show GHz not Mhz.
+	- Fixed Links on Welcome page in Panel.
+	- Fixed ColorPicker bug with ColorCursor plugin.
+	- Fixed width of the buttons in all bundle.
+	
 --------------------------------------------------------------------
 	Version: 1.0.5
 --------------------------------------------------------------------
@@ -27,6 +95,9 @@
 	- Layouts folder has been removed.
 	- Added clicked button color change to primary panel color.
 	- Changed most of the tooltiptexts from standard windows 10 look to more old one from windows 7.
+	- Moved every style within bundle to one file styles.inc.
+	- Battery-traditional.ini deleted.
+	- Visualizer addon files were moved to their own folder.
 	
  - Known issues:
 	- When switching Preset 1 to Preset 2 or otherwise in Appearance page previouse colors which will be saved will be those from Preset 1.
@@ -38,9 +109,9 @@
  - Bugfixes:
 	- Fixed "Modern-Header.png" white pixels on the sides.
 	- Fixed > symbol before PageName from fixed to dynamic variable.
-	- Moved every style within bundle to one file styles.inc.
-	- Battery-traditional.ini deleted.
-	- Visualizer addon files were moved to their own folder.
+	- Fixed battery-Traditional not used.
+	- Fixed visualizer addon files stuck in @RESOURCES folder.
+	- Fixed styles are not identic on every skin.
 	
 --------------------------------------------------------------------
 	Version: 1.0.4
@@ -76,38 +147,51 @@
 --------------------------------------------------------------------
 	Version: 1.0.3
 --------------------------------------------------------------------
- - Redesigned (again) enitre panel.
- - Added CLOCK.
- - Added WEATHER widget.
- - Added DISK Letters settings.
- - Added STATISTICS Combined settings.
- - Added update system to the suite.
- - Reorganized all files.
- - Added APPEARANCE page for customization.
- - Added TRANSLUCENT TASKBAR settings in settings page.
- - Added New Background to the appearance page.
- - Remaked skin menu (RMB mouse click on skin).
+ - Features:
+	- Added CLOCK.
+	- Added WEATHER widget.
+	- Added DISK Letters settings.
+	- Added STATISTICS Combined settings.
+	- Added update system to the suite.
+	- Added APPEARANCE page for customization.
+	- Added TRANSLUCENT TASKBAR settings in settings page.
+	- Added New Background to the appearance page.
+	
+ - Changes:
+	- Redesigned (again) enitre panel.
+	- Reorganized all files.
+	- Remaked skin menu (RMB mouse click on skin).
+	
 --------------------------------------------------------------------
 	Version: 1.0.2
 --------------------------------------------------------------------
- - Remaked STATISTICS skin.
- - Added different version of STATISTICS skin.
- - Remaked PANEL skin to reduce CPU/GPU usage.
- - Moved SETTINGS to different file.
- - Added ability to change accent color to SETTINGS.
- - Added new skin COLORPICKER for accent color support.
+ - Features:
+	- Added different version of STATISTICS skin.
+	- Added ability to change accent color to SETTINGS.
+	- Added new skin COLORPICKER for accent color support.
+	
+ - Changes:
+	- Remaked PANEL skin to reduce CPU/GPU usage.
+	- Moved SETTINGS to different file.
+	- Remaked STATISTICS skin.
+	
 --------------------------------------------------------------------
 	Version: 1.0.1 (BUILD-0056D)
 --------------------------------------------------------------------
- - Renamed folder MANUAL to DOCUMENTS.
- - Added update-log.txt in DOCUMENTS folder.
- - Moved main.ini to PANEL folder.
- - Redesigned popup.ini.
- - Added VISUALIZER skin to the panel.
- - Added needed files to @RESOURCE folder.
- - Added style meters to optimize panel.
+ - Features:
+	- Created the panel.
+	- Added VISUALIZER skin to the panel.
+	- Added needed files to @RESOURCE folder.
+	- Added style meters to optimize panel.
+	- Added update-log.txt in DOCUMENTS folder.
+
+ - Changes:
+	- Moved main.ini to PANEL folder.
+	- Redesigned popup.ini.
+	- Renamed folder MANUAL to DOCUMENTS.
+ 
 --------------------------------------------------------------------
 	Version: 1.0.0
 --------------------------------------------------------------------
- - Created the panel
+ - Adjust first skin to fit the future panel.
 --------------------------------------------------------------------
