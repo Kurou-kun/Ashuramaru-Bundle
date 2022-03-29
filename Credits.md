@@ -1,7 +1,7 @@
 # Ashuramaru-Bundle
 
 --------------------------------------------------------------------
-	Authors
+	Skin Authors
 --------------------------------------------------------------------
 - Panel
 	by Kurou
@@ -35,6 +35,9 @@
 	
 - CyberSearch
 	by CyberOfficial
+
+- TaskbarX
+	by Chris Andriessen
 	
 - Design idea was taken from Illustro Gadets
 	by Iamanai
@@ -44,6 +47,30 @@
 	
 - All skins were modified
 	by Kurou
+	
+--------------------------------------------------------------------
+	Plugin Authors
+--------------------------------------------------------------------
+- CursorColor
+	by JSMorley
+
+- Mouse
+	by NighthawkSLO
+	
+- TranslucentTaskbar
+	by Arkenthera
+	
+- FrostedGlass
+	by theAzack9
+	
+- AudioAnalyzer
+	by rxtd
+	
+- Chameleon
+	by Sock the Fox
+	
+- MSIAfterburner
+	by Nick Connors
 	
 --------------------------------------------------------------------
 	Wallpapers
