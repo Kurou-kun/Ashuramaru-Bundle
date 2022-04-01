@@ -39,11 +39,17 @@
 - TaskbarX
 	by Chris Andriessen
 	
+- VolumeControl
+	by Kenji Eva
+	
 - Design idea was taken from Illustro Gadets
 	by Iamanai
 	
 - New Detailed Statistics skin idea taken from SystemInformation
 	by Ahmed90
+	
+- Notifications skin animation was taken from Slider_Demo skin
+	by JSMorley
 	
 - All skins were modified
 	by Kurou

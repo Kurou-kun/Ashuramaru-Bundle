@@ -1,6 +1,48 @@
 # Ashuramaru-Bundle
 
 --------------------------------------------------------------------
+	Version: 1.0.7
+--------------------------------------------------------------------
+ - Features
+	- Added ability to change host for ping feature.
+	- Added ability to change the maximum size of GPU VRAM MEMORY.
+	- Added ability to customie fonts across bundle.
+	- Added GPU MEMORY USAGE to statistics skin.
+	- Added GPU FAN SPEED in RPM to statistics skin.
+	- Added ability to switch statistics skin measures engine from MSIAFTERBURNER to HWINFO64.
+	- Added GUIDE button to Setup-suite skin.
+	- Added new skin called VolumeControl.
+	- Added Notifications to the bundle to inform about certain events like new updates.
+	- Added ability to change panel background color but it doesnt work on Blur or Acrylic becouse there isn't much of background.
+	- Added ability to see logs of the panel.ini.
+	
+ - Changes
+	- Moved GPU Temperature before GPU Core Clock in statistics skin.
+	- Changed CPU CORE CLOCK prefix from Ghz to Mhz.
+	- Categorized files in Resource folder by their skins.
+	- Removed unactive function from DONE button in Setup-suite skin becouse it could conflict with 2nd program.
+	- Removed disclaimers from TranslucentTaskbar and TaskbarX skins in panel.
+	- Moved the same MEASURES which are used in many files into one.
+	- Cleaned up TaskbarX.ini to put its code in order.
+	
+ - Known Issues
+	- When switching Preset 1 to Preset 2 or otherwise in Appearance page previouse colors which will be saved will be those from Preset 1.
+	- You can drag any skin around while holding LMB on buttons.
+	- Too many usless variables in variables.inc file.
+	- CPU usage too high when doing certain actions.
+	
+ - Bugfixes
+	- Fixed X appearing in 1st disk used amount instead 0.
+	- Fixed WIDTH of descritptions in panel.
+	- Fixed centering icons on taskbar with TaskbarX skin.
+	- Fixed ON/OFF button from GameMode in panel settings.
+	- Fixed !Refresh bangs in entire bundle.
+	- Fixed label name Statistics Settings in polish language.
+	- Fixed Statistics MINIMAL variation variables hard writing in panel.ini not variables.inc.
+	- Fixed MSIAfterburner and HWInfo popups doesnt disappearing when the other one is chosen as measure engine.
+	- Fixed Processes BACKGROUND not showing blur/acrylic.
+	
+--------------------------------------------------------------------
 	Version: 1.0.6
 --------------------------------------------------------------------
  - Features
@@ -193,5 +235,5 @@
 --------------------------------------------------------------------
 	Version: 1.0.0
 --------------------------------------------------------------------
- - Adjust first skin to fit the future panel.
+ - Adjusted first skin to fit the future panel.
 --------------------------------------------------------------------
