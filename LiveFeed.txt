@@ -1,2 +1,2 @@
-Author: Kurou
-Text: Sampel text for live feed created from scratch!
+Kurou: 
+Sample text for live feed created from scratch!
