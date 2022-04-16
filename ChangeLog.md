@@ -1,6 +1,46 @@
 # Ashuramaru-Bundle
 
 --------------------------------------------------------------------
+	Version: 1.0.8
+--------------------------------------------------------------------
+ - Features
+	- Added new Blurred option to background settings.
+	- Added new Rounded option to background settings.
+	- Added new system icon section in which you can display your gpu brand logo.
+	- Added new TRAFFIC statistic to Statistics skin.
+	- Added new Network Traffic Limit in Statistics Settings to display notification when limit is reached.
+	
+ - Changes
+	- Moved panel variables from Panel.ini to variables.inc.
+	- Removed Set Wallpaper section from appearance page.
+	- Added button color change system to the background type buttons.
+	- Redesigned MINIMAL Statistics Variation.
+	
+ - Known Issues
+	- When switching Preset 1 to Preset 2 or otherwise in Appearance page previouse colors which will be saved will be those from Preset 1.
+	- You can drag any skin around while holding LMB on buttons.
+	- Too many usless variables in variables.inc file.
+	- CPU usage too high when doing certain actions.
+	- Removed blur from Opaque background.
+
+ - Bugfixes
+	- Fixed Notification when closing panel still appeares when Notifications are turned off.
+	- Fixed Notification when CPU/GPU reaches more then 15% usage.
+	- Deleted unused variables in CyberSearch.ini.
+	- Fixed Panel Background Color Variable.
+	- Fixed size of the icons in Notifications.
+	- Fixed in panel UNINSTALL SKIN button which turns on popup and instantly closing it.
+	- Fixed UNINSTALL POPUP uninstall button doesnt close the popup.
+	- Fixed wrong comments in measure addons.
+	- Fixed clicking RMB on chosen color in Appearance Color page doesnt refreshed the panel to show default color.
+	- Fixed Date/Year info positions in Clock skin.
+	- Fixed WIDTH of the strings in Statistics Settings 2nd page.
+	- Fixed Polish Language missing translations.
+	- Fixed missing entries in Logs.inc.
+	- Fixed seperating line from the bottom buttons in Appearance settings.
+	- Fixed MSIAfterburner/HWInfo popup appearing on main.ini.
+	
+--------------------------------------------------------------------
 	Version: 1.0.7
 --------------------------------------------------------------------
  - Features
