@@ -1,6 +1,49 @@
 # Ashuramaru-Bundle
 
 --------------------------------------------------------------------
+	Version: 1.0.9
+--------------------------------------------------------------------
+ - Features
+	- Added System Control skin to the bundle.
+	- Added new Statistics Disk Type feature to the panel.
+	- Added Clipboard skin to the bundle.
+	- Added new Definitive background to Appearance page.
+	- Added new Light background to Appearance page.
+	- Added GPU Memory Usage Percentage to Statistics skin.
+	- Added Network Speed to Statistics skin.
+	- Added DuckDuckGo and Bing search engines to CyberSearch skin.
+	- Added support up to 4 more disks to Statistics skin.
+	- Added new Solid background to Appearance page.
+	
+ - Changes
+	- Changed seperators into style and added ability to change its color.
+	- Recoded minimal.ini variation of Statistics skin.
+	- Changed Tool Tip Texts in background type buttons on Appearance page.
+	- Changed Statistic background to blank version.
+	- Changed Statistics Combined background to blank and added header on top to prevent streching.
+	- Changed how monthly traffic reset works.
+	- Removed OnCloseAction Resest Stats to let user decide when HE wants to reset stats via middle mouse click.
+	- Completely removed Loggs function from the bundle.
+	
+ - Known Issues
+	- When switching Preset 1 to Preset 2 or otherwise in Appearance page previouse colors which will be saved will be those from Preset 1.
+	- You can drag any skin around while holding LMB on buttons.
+	- CPU usage too high when doing certain actions.
+	
+ - Bugfixes
+	- Fixed lost translation for Traffic in statistics settings.
+	- Fixed color restoring via RMB refresh.
+	- Fixed Clock colors.
+	- Fixed Notifications background scale.
+	- Fixed depreceted commands for rainmeter.
+	- Fixed Processes settings variation buttons.
+	- Fixed description in metadata for all skins.
+	- Removed unused include command.
+	- Fixed Clock.ini too big width.
+	- Swapped Ashuramaru-Bundle in paths to #ROOTCONFIG#.
+	- Fixed Statistics skin titles not being center.
+
+--------------------------------------------------------------------
 	Version: 1.0.8
 --------------------------------------------------------------------
  - Features
@@ -15,13 +58,13 @@
 	- Removed Set Wallpaper section from appearance page.
 	- Added button color change system to the background type buttons.
 	- Redesigned MINIMAL Statistics Variation.
+	- Removed blur from Opaque background.
 	
  - Known Issues
 	- When switching Preset 1 to Preset 2 or otherwise in Appearance page previouse colors which will be saved will be those from Preset 1.
 	- You can drag any skin around while holding LMB on buttons.
 	- Too many usless variables in variables.inc file.
 	- CPU usage too high when doing certain actions.
-	- Removed blur from Opaque background.
 
  - Bugfixes
 	- Fixed Notification when closing panel still appeares when Notifications are turned off.
@@ -51,7 +94,7 @@
 	- Added GPU FAN SPEED in RPM to statistics skin.
 	- Added ability to switch statistics skin measures engine from MSIAFTERBURNER to HWINFO64.
 	- Added GUIDE button to Setup-suite skin.
-	- Added new skin called VolumeControl.
+	- Added new skin called Volume Control.
 	- Added Notifications to the bundle to inform about certain events like new updates.
 	- Added ability to change panel background color but it doesnt work on Blur or Acrylic becouse there isn't much of background.
 	- Added ability to see logs of the panel.ini.

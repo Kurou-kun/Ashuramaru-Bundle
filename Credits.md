@@ -39,8 +39,14 @@
 - TaskbarX
 	by Chris Andriessen
 	
-- VolumeControl
+- Volume Control
 	by Kenji Eva
+	
+- System Control
+	by Kurou
+	
+- Clipboard
+	by Eclectic Tech
 	
 - Design idea was taken from Illustro Gadets
 	by Iamanai
