@@ -48,7 +48,7 @@
 - Clipboard
 	by Eclectic Tech
 	
-- Design idea was taken from Illustro Gadets
+- Design idea was taken from Illustro Gadets (1.0.9 or lower)
 	by Iamanai
 	
 - New Detailed Statistics skin idea taken from SystemInformation
@@ -84,6 +84,8 @@
 - MSIAfterburner
 	by Nick Connors
 	
+- There is many more plugins that this bundle use but i couldn't find authors of them but all copyright of those plugins goes to them.	
+
 --------------------------------------------------------------------
 	Wallpapers
 --------------------------------------------------------------------
@@ -104,8 +106,3 @@
 	
 - Ronin on Shrine.jpg
 	from https://wall.alphacoders.com/big.php?i=992385
-	
------------------------------------------------------------------
-	License
------------------------------------------------------------------
-- Creative Commons BY-NC-SA 3.0
