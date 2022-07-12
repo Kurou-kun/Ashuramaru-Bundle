@@ -1,7 +1,42 @@
 # Ashuramaru-Bundle
+--------------------------------------------------------------------
+	Version: 1.1.0
+--------------------------------------------------------------------
+ - Features
+	- Added 4 more Statistics Combined types.
+	- Added new Vertical Statistics skin.
+	- Added new Statistics Logging function to monitor hardware stats.
+	- Added RAM and SWAP support from HwInfo sensors. (MsiAfterburner still have default ones)
+
+ - Changes
+	- Redesigned entire panel.
+	- Moved Font Changer to the panel itself.
+	- Removed Notes skin.
+	- Improved background changing system.
+	- Removed Presets from colors.
+	- Removed Performance Monitor.
+	- Merged few panel systems into one Background Panel skin.
+	- Moved PopUps to panel.
+	- Removed HwInfo and MsiAfterburner PopUps.
+	- Improved ColorPicker skin.
+	- Improved Language change system.
+	- Re-created languages and edited panel to fit them as it should.
+	- Unlocked ability to deactivate every stat in Statistics skin.
+	- Re-created Hardware-Info skin.
+	- Revisited metadata of all skins.
+	
+ - Known Issues
+	- Speed and Traffic labels aren't coded exacly how they should and i will take care of it later.
+	
+ - Bugfixes
+	- Fixed Dock icon names.
+	- Fixed ContextMenu on every skin.
+	- Fixed GPU Memory Usage variants.
+	- Fixed Notyfications division error.
+	- Fixed Dock skin reset button.
 
 --------------------------------------------------------------------
-	Version: 1.0.9
+	Version: 1.0.9 [UNRELEASED]
 --------------------------------------------------------------------
  - Features
 	- Added System Control skin to the bundle.
@@ -18,7 +53,6 @@
  - Changes
 	- Changed seperators into style and added ability to change its color.
 	- Recoded minimal.ini variation of Statistics skin.
-	- Changed Tool Tip Texts in background type buttons on Appearance page.
 	- Changed Statistic background to blank version.
 	- Changed Statistics Combined background to blank and added header on top to prevent streching.
 	- Changed how monthly traffic reset works.
