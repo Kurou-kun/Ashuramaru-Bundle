@@ -1,5 +1,7 @@
 {
-    "name:": "Ashuramaru Bundle",
-    "author": "kurou",
-    "version": "1.1.1"
+    "Ashuramaru_Bundle": [
+        {
+            "version": "1.1.1"
+        }
+    ]
 }
