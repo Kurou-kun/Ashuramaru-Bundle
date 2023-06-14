@@ -317,7 +317,7 @@
 	- Moved SETTINGS to different file.
 	- Remaked STATISTICS skin.
 	
-<h3>Version: 1.0.1 (BUILD-0056D)</h3>
+<h3>Version: 1.0.1 [BUILD-0056D]</h3>
  - Features:
 	- Created the panel.
 	- Added VISUALIZER skin to the panel.
