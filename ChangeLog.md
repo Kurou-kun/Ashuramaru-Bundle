@@ -33,9 +33,7 @@
 	- Fixed Notyfications division error.
 	- Fixed Dock skin reset button.
 
---------------------------------------------------------------------
-	Version: 1.0.9 [UNRELEASED]
---------------------------------------------------------------------
+<h3>Version: 1.0.9 [UNRELEASED]</h3>
  - Features
 	- Added System Control skin to the bundle.
 	- Added new Statistics Disk Type feature to the panel.
@@ -75,9 +73,7 @@
 	- Swapped Ashuramaru-Bundle in paths to #ROOTCONFIG#.
 	- Fixed Statistics skin titles not being center.
 
---------------------------------------------------------------------
-	Version: 1.0.8
---------------------------------------------------------------------
+<h3>Version: 1.0.8</h3>
  - Features
 	- Added new Blurred option to background settings.
 	- Added new Rounded option to background settings.
@@ -115,9 +111,7 @@
 	- Fixed seperating line from the bottom buttons in Appearance settings.
 	- Fixed MSIAfterburner/HWInfo popup appearing on main.ini.
 	
---------------------------------------------------------------------
-	Version: 1.0.7
---------------------------------------------------------------------
+<h3>Version: 1.0.7</h3>
  - Features
 	- Added ability to change host for ping feature.
 	- Added ability to change the maximum size of GPU VRAM MEMORY.
@@ -157,9 +151,7 @@
 	- Fixed MSIAfterburner and HWInfo popups doesnt disappearing when the other one is chosen as measure engine.
 	- Fixed Processes BACKGROUND not showing blur/acrylic.
 	
---------------------------------------------------------------------
-	Version: 1.0.6
---------------------------------------------------------------------
+<h3>Version: 1.0.6</h3>
  - Features
 	- Added new Dock skin to the bundle.
 	- Added new CyberSearch skin to the bundle.
@@ -229,9 +221,7 @@
 	- Fixed ColorPicker bug with ColorCursor plugin.
 	- Fixed width of the buttons in all bundle.
 	
---------------------------------------------------------------------
-	Version: 1.0.5
---------------------------------------------------------------------
+<h3>Version: 1.0.5</h3>
  - Features:
 	- Added Tray Icon to Tray Bar for easier access to panel.
 	- Added Ashuramaru Bundle Icon in the panel.
@@ -270,9 +260,7 @@
 	- Fixed visualizer addon files stuck in @RESOURCES folder.
 	- Fixed styles are not identic on every skin.
 	
---------------------------------------------------------------------
-	Version: 1.0.4
---------------------------------------------------------------------
+<h3>Version: 1.0.4</h3>
  - Features:
 	- Added Graphs support to Network, System and Disks
 	- Added "Battery" skin for laptops.
@@ -301,9 +289,8 @@
  - Bugfixes:
 	- Fixed all paths for variables.
 	- Fixed colors not applying after chosing in "ColorPicker" skin.
---------------------------------------------------------------------
-	Version: 1.0.3
---------------------------------------------------------------------
+
+<h3>Version: 1.0.3</h3>
  - Features:
 	- Added CLOCK.
 	- Added WEATHER widget.
@@ -319,9 +306,7 @@
 	- Reorganized all files.
 	- Remaked skin menu (RMB mouse click on skin).
 	
---------------------------------------------------------------------
-	Version: 1.0.2
---------------------------------------------------------------------
+<h3>Version: 1.0.2</h3>
  - Features:
 	- Added different version of STATISTICS skin.
 	- Added ability to change accent color to SETTINGS.
@@ -332,9 +317,7 @@
 	- Moved SETTINGS to different file.
 	- Remaked STATISTICS skin.
 	
---------------------------------------------------------------------
-	Version: 1.0.1 (BUILD-0056D)
---------------------------------------------------------------------
+<h3>Version: 1.0.1 (BUILD-0056D)</h3>
  - Features:
 	- Created the panel.
 	- Added VISUALIZER skin to the panel.
@@ -347,8 +330,5 @@
 	- Redesigned popup.ini.
 	- Renamed folder MANUAL to DOCUMENTS.
  
---------------------------------------------------------------------
-	Version: 1.0.0
---------------------------------------------------------------------
+<h3>Version: 1.0.0</h3>
  - Adjusted first skin to fit the future panel.
---------------------------------------------------------------------
