@@ -1,3 +1,25 @@
+<h3>Version: 1.1.1</h3>
+<b>Features</b>
+<ul>
+	<li></li>
+</ul>
+
+<b>Changes</b>
+<ul>
+	<li></li>
+</ul>
+
+<b>Known Issues</b>
+<ul>
+	<li></li>
+</ul>
+
+<b>Bugfixes</b>
+<ul>
+	<li></li>
+</ul>
+
+
 <h3>Version: 1.1.0</h3>
 <b>Features</b>
 <ul>
