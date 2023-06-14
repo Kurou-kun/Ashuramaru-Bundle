@@ -1,7 +1,5 @@
-# Ashuramaru-Bundle
---------------------------------------------------------------------
-	Version: 1.1.0
---------------------------------------------------------------------
+[h3]Version: 1.1.0[/h3]
+
  - Features
 	- Added 4 more Statistics Combined types.
 	- Added new Vertical Statistics skin.
