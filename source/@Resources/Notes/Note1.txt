@@ -1,2 +1,0 @@
-[Variables]
-NoteText=Click to Edit text
