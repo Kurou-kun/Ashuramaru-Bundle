@@ -1,0 +1,19 @@
+# Normalize line endings by default
+* text=auto
+
+# Rainmeter source is text
+*.ini  text
+*.inc  text
+*.lua  text
+*.md   text
+
+# Binary assets — never diff or normalize
+*.png    binary
+*.jpg    binary
+*.jpeg   binary
+*.bmp    binary
+*.ico    binary
+*.ttf    binary
+*.otf    binary
+*.wav    binary
+*.rmskin binary

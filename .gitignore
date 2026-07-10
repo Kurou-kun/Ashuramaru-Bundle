@@ -1,0 +1,15 @@
+# OS cruft
+Thumbs.db
+desktop.ini
+.DS_Store
+
+# Rainmeter / release packaging output
+*.rmskin
+*.zip
+
+# Local-only (mirrors NativeHardwareMonitor convention)
+docs/superpowers/
+CHANGELOG.md
+
+# Editors
+.vscode/
